@@ -1,0 +1,18 @@
+{
+  "firstName": "Indah",
+  "lastName": "Fitriyany",
+  "email": "indahfitriyany@mail.com",
+  "gender": "male",
+  "address": {
+    "country": "Indonesia",
+    "postCode": "IND001",
+    "city": "Surabaya"
+  },
+  "createdAt": "",
+  "favoriteSubjects": [
+    "soerjadi",
+    "english",
+    "harry porter"
+  ],
+  "totalSpentInBooks": 0.00
+}
